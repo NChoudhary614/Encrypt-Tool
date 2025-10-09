@@ -42,6 +42,3 @@ Feel free to fork this repository, submit issues, or create pull requests to imp
 ## License
 [Specify your license, e.g., MIT, GPL, etc., or state if it's not licensed yet.]
 
-
-This README provides a professional and informative starting point, which you can expand based on your specific code and requirements.
-```
